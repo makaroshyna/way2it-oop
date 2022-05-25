@@ -1,4 +1,4 @@
-package ord.way2it.oop.homework1_shapes.circle;
+package org.way2it.oop.homework1_shapes.circle;
 
 public class Main extends Circle {
 
