@@ -1,4 +1,4 @@
-package org.way2it.oop.homework1_shapes.rectangle;
+package org.way2it.oop.homework1.shapes.rectangle;
 
 public class Main extends Rectangle {
 

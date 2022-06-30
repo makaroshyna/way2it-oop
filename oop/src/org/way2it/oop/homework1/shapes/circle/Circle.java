@@ -1,4 +1,4 @@
-package org.way2it.oop.homework1_shapes.circle;
+package org.way2it.oop.homework1.shapes.circle;
 
 public class Circle {
 

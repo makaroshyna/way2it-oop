@@ -1,4 +1,4 @@
-package org.way2it.oop.homework1_flower;
+package org.way2it.oop.homework2.flower;
 
 public class Main {
 
