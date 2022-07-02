@@ -1,14 +1,16 @@
 package org.way2it.oop.homework1.car;
 
-public class SteeringWheel extends Car {
+public class SteeringWheel {
 
     private int diameter;
 
-    public SteeringWheel() {
+    public SteeringWheel(int diameter) {
+        this.diameter = diameter;
     }
 
     public void changeDiameter(int newDiameter) {
         diameter = newDiameter;
+        System.out.println(diameter + " = new diameter of steering wheel");
     }
 
     public int getDiameter() {

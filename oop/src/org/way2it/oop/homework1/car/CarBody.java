@@ -1,34 +1,38 @@
 package org.way2it.oop.homework1.car;
 
-public class CarBody extends Car {
+public class CarBody {
 
-    private int length;
-    private int height;
+    private double length;
+    private double height;
 
-    public CarBody() {
+    public CarBody(double length, double height) {
+        this.length = length;
+        this.height = height;
     }
 
-    public void changeLength(int newLength) {
+    public void changeLength(double newLength) {
         length = newLength;
+        System.out.println(length + " = new length of car body");
     }
 
-    public void changeHeight(int newHeight) {
+    public void changeHeight(double newHeight) {
         height = newHeight;
+        System.out.println(height + " = new height of car body");
     }
 
-    public int getLength() {
+    public double getLength() {
         return length;
     }
 
-    public void setLength(int length) {
+    public void setLength(double length) {
         this.length = length;
     }
 
-    public int getHeight() {
+    public double getHeight() {
         return height;
     }
 
-    public void setHeight(int height) {
+    public void setHeight(double height) {
         this.height = height;
     }
 
