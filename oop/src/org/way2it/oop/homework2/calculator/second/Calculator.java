@@ -1,4 +1,4 @@
-package org.way2it.oop.homework2.calulator.second;
+package org.way2it.oop.homework2.calculator.second;
 
 import org.way2it.oop.homework2.calculator.first.Numerable;
 

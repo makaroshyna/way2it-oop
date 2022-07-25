@@ -1,4 +1,4 @@
-package org.way2it.oop.homework2.calulator.second;
+package org.way2it.oop.homework2.calculator.second;
 
 public class Main {
     public static void main(String[] args) {
